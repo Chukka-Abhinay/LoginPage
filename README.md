@@ -9,7 +9,7 @@ PHP : https://youtu.be/zZ6vybT1HQs?si=A4nmuqF9Dx-S0vLQ
 
 login-system/
 │
-├── public/                     # Publicly accessible files (front-end)
+├── public/                     # Publicly accessible files (front-end)</br>
 │   ├── index.html              # Main login/registration page
 │   ├── login.html              # Login page (optional, if separate from index.html)
 │   ├── register.html           # Registration page (optional, if separate from index.html)
